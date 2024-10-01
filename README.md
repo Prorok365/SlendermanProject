@@ -12,7 +12,10 @@
 
 ## Screenshots and Gifs
 <!-- 1 GIF, 2 Screenshots -->
-### WIP
+
+<img src="images/MapOverview.png" width="600" />
+<img src="images/Ingame_Screenshot.png" width="600" />
+<img src="images/InGame_Gameplay.gif" width="600" />
 
 ## Controls
 * **WASD** to move.
